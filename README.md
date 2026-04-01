@@ -24,4 +24,4 @@ its purpose is to be **alive, strange,and interactive**:
 - https://huggingface.co/professorf/gpt-oss-20b-mxfp4-gguf/tree/main
   
 2. Install dependencies:
-   pip install -r requirements.txt
+- pip install -r requirements.txt
