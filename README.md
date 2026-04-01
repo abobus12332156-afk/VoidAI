@@ -23,3 +23,5 @@ its purpose is to be **alive, strange,and interactive**:
 1. Download the gpt-oss-20b-mxfp4.guff separately:
 - https://huggingface.co/professorf/gpt-oss-20b-mxfp4-gguf/tree/main
   
+2. Install dependencies:
+   pip install -r requirements.txt
