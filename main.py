@@ -13,7 +13,7 @@ def log(*args):
         print(*args)
 
 # путь к модели
-model_path = "models/gpt-oss-20b-MXFP4.gguf"
+model_path = "models/gpt-oss-20b-mxfp4.gguf"
 
 # оздаём объект модели
 llm = Llama(model_path=model_path)
