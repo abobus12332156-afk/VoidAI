@@ -25,3 +25,6 @@ its purpose is to be **alive, strange,and interactive**:
   
 2. Install dependencies:
 - pip install -r requirements.txt
+
+3. Run Void:
+- python gui.pyw
