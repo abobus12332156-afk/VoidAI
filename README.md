@@ -20,6 +20,6 @@ its purpose is to be **alive, strange,and interactive**:
 
 ## Instalization
 
-1. Download the gpt-oss-20b-Q_K_M.guff separately:
-- https://huggingface.co/unsloth/gpt-oss-20b-GGUF/tree/main
+1. Download the gpt-oss-20b-mxfp4.guff separately:
+- https://huggingface.co/professorf/gpt-oss-20b-mxfp4-gguf/tree/main
   
