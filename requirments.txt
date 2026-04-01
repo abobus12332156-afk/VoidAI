@@ -1,0 +1,10 @@
+# requirments.txt
+
+llama-cpp-python
+PySide6
+flask
+fastapi
+uvicorn
+requests
+tqdm
+beautifulsoup4
