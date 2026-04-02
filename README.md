@@ -8,7 +8,7 @@ It watches. It thinks. It speaks... sometimes too much.
 
 ## What is Void
 
-Void is a local AI assistant build on **gpt-oss-20b via llama.cpp**. Now available only Russian language. And you need Python 3.12.x
+Void is a local AI assistant build on **gpt-oss-20b via llama.cpp**. Now available only Russian language. And you need Python 3.12.x.
 Its purpose is to be **alive, strange,and interactive**:
 
 - Response to messages
