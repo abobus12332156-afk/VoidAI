@@ -1,6 +1,6 @@
 # main.py
 from llama_cpp import Llama
-from web_search import search_web
+# from web_search import search_web
 from state import void_context, user_input
 from errors import ModelLoadError, MemoryErrorVoid
 
