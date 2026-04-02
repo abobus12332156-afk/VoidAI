@@ -8,8 +8,8 @@ It watches. It thinks. It speaks... sometimes too much.
 
 ## What is Void
 
-Void is a local AI assistant build on **gpt-oss-20b via llama.cpp**.
-its purpose is to be **alive, strange,and interactive**:
+Void is a local AI assistant build on **gpt-oss-20b via llama.cpp**. Now available only Russian language.
+Its purpose is to be **alive, strange,and interactive**:
 
 - Response to messages
 - Observes user behavior (in development)
